@@ -31,10 +31,10 @@ print("\nBOT Run_ .......\n")
 
 poll = LinePoll(cl)
 call = cl
-creator = ["u1d9e3a6f2aca5d6a037dec9fc7fbf927"]
-owner = ["u1d9e3a6f2aca5d6a037dec9fc7fbf927"]
-admin = ["u1d9e3a6f2aca5d6a037dec9fc7fbf927"]
-staff = ["u1d9e3a6f2aca5d6a037dec9fc7fbf927"]
+creator = ["u4a576ccab02b97b6bd64093a3e1c145b"]
+owner = ["u4a576ccab02b97b6bd64093a3e1c145b"]
+admin = ["u4a576ccab02b97b6bd64093a3e1c145b"]
+staff = ["u4a576ccab02b97b6bd64093a3e1c145b"]
 lineProfile = cl.getProfile()
 mid = cl.getProfile().mid
 KAC = [cl]
